@@ -33,3 +33,9 @@ body {
 	padding: 20px;
 	text-align: center;
 }
+
+#copyright {
+	text-align: right;
+	padding-right: 2rem;
+	vertical-align: center;
+}
